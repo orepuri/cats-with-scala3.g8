@@ -1,6 +1,6 @@
 val scala3Version = "$scala3Version$"
 val catsVersion = "2.8.0"
-val catsEffectVersion = "3.3.12"
+val catsEffectVersion = "3.3.14"
 
 lazy val root = project
   .in(file("."))
